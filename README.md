@@ -1,4 +1,4 @@
-
+# ALLAHUAKBAR
 # OSAMA_BOMBER
 ## Email Bomber
 <img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/ffab8a2d-15b2-4c9a-964d-d1b73aa64c61" />
